@@ -15,7 +15,7 @@ namespace MyFirstWebApplicationV3.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This is another attempt to fix my repository issues";
 
             return View();
         }
